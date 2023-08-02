@@ -37,12 +37,12 @@ var locInfo = {
 		emptyrecords: "Nessun record da visualizzare",
 		loadtext: "Caricamento...",
 		pgtext: "Pagina {0} di {1}",
-		pgfirst: "First Page",
-		pglast: "Last Page",
-		pgnext: "Next Page",
-		pgprev: "Previous Page",
-		pgrecs: "Records per Page",
-		showhide: "Toggle Expand Collapse Grid",
+		pgfirst: "Prima Pagina",
+		pglast: "Ultima Pagina",
+		pgnext: "Prossima Pagina",
+		pgprev: "Pagina Precedente",
+		pgrecs: "Record per Pagina",
+		showhide: "Alterna Espandi comprimi Griglia",
 		savetext: "Salvataggio in corso..."
 	},
 	search: {
@@ -71,12 +71,12 @@ var locInfo = {
 			{ op: "AND", text: "tutto" },
 			{ op: "OR", text: "almeno uno" }
 		],
-		addGroupTitle: "Add subgroup",
-		deleteGroupTitle: "Delete group",
-		addRuleTitle: "Add rule",
-		deleteRuleTitle: "Delete rule",
-		operandTitle: "Click to select search operation.",
-		resetTitle: "Reset Search Value"
+		addGroupTitle: "Aggiungi subgroup",
+		deleteGroupTitle: "Elimina group",
+		addRuleTitle: "Aggiungi rule",
+		deleteRuleTitle: "Elimina rule",
+		operandTitle: "Clicca per selezionare l'operazione di ricerca.",
+		resetTitle: "Reimposta valore di Ricerca"
 	},
 	edit: {
 		addCaption: "Aggiungi Record",
