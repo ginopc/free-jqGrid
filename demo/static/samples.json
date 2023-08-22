@@ -1,0 +1,8 @@
+[
+    { "id": 1, "firstName": "Pinco", "lastName": "Pallino", "age": 23 },
+    { "id": 2, "firstName": "Paolo", "lastName": "Rossi", "age": 23 },
+    { "id": 3, "firstName": "Mario", "lastName": "Neri", "age": 23 },
+    { "id": 4, "firstName": "Barbara", "lastName": "Bianchi", "age": 23 },
+    { "id": 5, "firstName": "Anna", "lastName": "Verdi", "age": 23 },
+    { "id": 6, "firstName": "Federica", "lastName": "Celeste", "age": 23 }
+]

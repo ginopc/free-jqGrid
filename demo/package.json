@@ -1,0 +1,19 @@
+{
+  "name": "jqgrid-demo",
+  "version": "1.0.0",
+  "description": "Demo for free-jqgrid",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Demo",
+    "free-jqgrid"
+  ],
+  "author": "Maurizio Aru",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
